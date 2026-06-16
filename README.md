@@ -22,3 +22,6 @@ systemctl status infra-demo
 
 ## AI Assistance Notes
 AI was used for command explanations and documentation guidance. All commands and configurations were manually verified inside the local VM.
+
+## Demo Video 
+https://drive.google.com/file/d/1cESu5TGLA1JwGSWHEqBtlMQZ0M07vkzT/view?usp=drive_link
